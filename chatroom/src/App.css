@@ -1,0 +1,10 @@
+.message {
+  background-color: black;
+  color: white;
+  width: 500px;
+  padding: 5px;
+  margin: 0px;
+}
+input {
+  margin-bottom: 10px;
+}
